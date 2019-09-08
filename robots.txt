@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://adaereizif.ecaw.ltd/sitemap.xml
